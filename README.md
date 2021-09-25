@@ -1,3 +1,11 @@
+# ¿Qué es el proyecto?
+En este proyecto realize una operación CRUD con firebase database in realtime que permite insertar datos, leerlos, modificarlos y eliminarlos 
+
+# Instalacion de dependencias
+npx create-react-app
+npm i firebase
+npm i react-toastify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
